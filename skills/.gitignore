@@ -20,7 +20,9 @@ __pycache__/
 # Symlinked here so Claude Code finds them. Source of truth is ToolUniverse repo.
 # No trailing slash — symlinks to dirs are not dirs in git's view.
 tooluniverse*
+!tooluniverse-deep-research/
 devtu-*
 setup-tooluniverse
 create-tooluniverse-skill
+company-research
 README.md
